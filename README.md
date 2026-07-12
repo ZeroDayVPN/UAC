@@ -239,9 +239,8 @@ copies of the Software...</code></pre>
       <img
         src="https://__YOUR_CLICK_LINK__"
         alt="Download"
-        data-canonical-src="https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white"
-        style="max-width: 100%;"
-      >
+        data-canonical-src="https://shields.io/badge/Get%20Release-d90429?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+        style="max-width: 100%;">
     </a>
   </p>
 
