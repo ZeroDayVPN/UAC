@@ -4,14 +4,9 @@
   <p><strong>Streamlined Access Elevation for Advanced Windows Workflows</strong></p>
 
   <p>
-    <a href="__LINK_PLACEHOLDER_RELEASE_TOP__" rel="nofollow">
-      <img
-        src="https://camo.githubusercontent.com/fe34f4ddd1fa1c1266965052c7486b7fcce284020e2c328fba2c284dbcb2cc53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323052656c656173652d6439303432393f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
-        alt="Download"
-        data-canonical-src="https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-        style="max-width: 100%;"
-      >
-    </a>
+ <a href="__YOUR_CLICK_LINK__" rel="nofollow">
+  <img src="https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+</a>
   </p>
 
   <hr>
